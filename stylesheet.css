@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d4d0d0 ;
+    color: #333; 
+}
+
+
+header{
+    background-color: #d10000 ;
+    color: #ffffff ;
+    text-align: center; 
+    padding: 20px; 
+}
+
+
+section{
+    margin-top: 20px auto;
+    margin-top: 20px auto;
+    padding: 20px; 
+    background-color: #fff;
+    border-radius: 5px; 
+}
+
+
+h2{
+    color: #4caf50;
+    text-align: center;
+}
+
+
+.products{
+    margin-left: center;
+    margin-right: center;
+    padding: 20px;
+    width: 600px;
+    border: 1px solid #ddd;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.email-field{
+margin-bottom: 20px;   
+}
+
+
+button{
+    background-color: #4CAf50;
+    color: #fff;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+footer{
+margin-top: 10px;
+padding: 20px;
+background-color:#000000 ;
+border-radius: 5px;
+box-shadow: 20px 20px;
+text-align: center;
+color: #fff;
+}
